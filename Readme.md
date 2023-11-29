@@ -1,2 +1,2 @@
-Welcome to my Trainings App
+Welcome to my Trainings APi
 ===
