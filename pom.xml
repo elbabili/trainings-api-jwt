@@ -77,6 +77,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>api-training</finalName>
     </build>
 
 </project>
